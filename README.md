@@ -31,4 +31,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-!https://i.imgur.com/Mpbs6ji.png
+![https://i.imgur.com/Mpbs6ji.png]
